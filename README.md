@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/19inQpfxQzk-yqiwo9aLNqbs4qONz_xgm/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
-<code>[CS50](https://github.com/CharuKes/python_coding/tree/main/Harvardcourse)</code>     
-<code>[HyperionDev](https://github.com/CharuKes/python_coding/tree/main/ExcerciseH)</code>    
+<code>[CS50 Python coding](https://github.com/CharuKes/coding_excercises/tree/main/Harvardcourse_cs50_python)</code>     
+<code>[HyperionDev coding](https://github.com/CharuKes/coding_excercises/tree/main/HyperionDev_coding)</code>    
+<code>[Projects](https://github.com/CharuKes/coding_excercises/tree/main/projects)</code> 
 
 
 ### What can I help with:question::cyclone:
