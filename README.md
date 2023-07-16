@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All about me is at [LinkedIn](https://www.linkedin.com/in/charukes/)
 
-- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Data Science", "Machine Learning" ] ```
+- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Data Science", "Machine Learning", "Tableau" ] ```
 
 - 📫 How to reach me **thecharukesharwani@gmail.com**
 
