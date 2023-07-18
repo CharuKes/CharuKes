@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Charu Kesarwani</h1>
-<h3 align="center">git commit -m "Hello, I'm a Data Scientist (Student and Aspiring Data Scientist)"</h3>
+<h3 align="center">git commit -m "Hello, I'm a Data Scientist (Student and Aspiring Data Scientist)"</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charukes&label=Profile%20views&color=0e75b6&style=flat" alt="charukes" /> </p>
