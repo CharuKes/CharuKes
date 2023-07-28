@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Banner](https://github.com/CharuKes/CharuKes/blob/main/banner.JPG)
 
 
-- 👨‍💻 All about me is at [LinkedIn](https://www.linkedin.com/in/charukes/)
+- 👨‍💻 All about me is at [LinkedIn](https://www.linkedin.com/in/charukes/) 
 
 - 💬 Ask me about ``` var topics = [ "Python", "SQL", "Data Science", "Machine Learning", "Tableau" ] ```
 
