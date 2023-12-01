@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 ### What are my featured projects:question::rocket:
   
-<code>[Projects](https://github.com/CharuKes/coding_excercises/tree/main/projects)</code>    
-<code>[Kaggle Projects](https://github.com/CharuKes/coding_excercises/tree/main/kaggle_excercise/Gun%20Deaths%20in%20the%20US%202006%20-%202020)</code>     
-<code>[Tableau Projects](https://github.com/CharuKes/coding_excercises/tree/main/Tableau_analysis)</code>         
+<code>[Event Management System](https://github.com/CharuKes/Event-Management-System/blob/master/README.md)</code>    
+<code>[GloBox Project](https://github.com/CharuKes/globox_project/blob/main/README.md)</code>     
+<code>[MetroCar Funnel Projects](https://github.com/CharuKes/Funnel-Analysis/blob/master/README.md)</code>         
 
 
 
