@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **thecharukesharwani@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/19inQpfxQzk-yqiwo9aLNqbs4qONz_xgm/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1TIeq4BofOXDN13JxhmEz8d-KAnU7fbFj/view?usp=sharing)
 
 - 📄 Portfolio: [HyperionDev](https://hyperiondev.com/portfolio/110945)
 
