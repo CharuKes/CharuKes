@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📄 Portfolio: [HyperionDev](https://hyperiondev.com/portfolio/110945)
 
-### What are my featured projects:question::rocket:
+### What are my featured projects
   
 <code>[Event Management System](https://github.com/CharuKes/Event-Management-System/blob/master/README.md)</code>    
 <code>[GloBox Project](https://github.com/CharuKes/globox_project/blob/main/README.md)</code>     
