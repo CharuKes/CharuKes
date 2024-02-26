@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ``` var topics = [ "Python", "SQL", "Data Science", "Machine Learning", "Tableau", "PowerBI", "Hypothesis Testing" ] ```
 
-- 📫 How to reach me **thecharukesharwani@gmail.com**
+- 📫 How to reach me **thecharukesharwani@gmail.com** 
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1TIeq4BofOXDN13JxhmEz8d-KAnU7fbFj/view?usp=sharing)
 
